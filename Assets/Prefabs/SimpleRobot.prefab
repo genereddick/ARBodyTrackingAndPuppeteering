@@ -1,0 +1,396 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &7097764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284390985026184020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db132d1ea3a28b440b1d313e7e5f593c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Root:
+    jointIndex: 0
+    avatarBone: {fileID: 7956509962549587170}
+  Hips:
+    jointIndex: 1
+    avatarBone: {fileID: 5918921035088532306}
+  LeftUpLeg:
+    jointIndex: 2
+    avatarBone: {fileID: 4205169227822110018}
+  LeftLeg:
+    jointIndex: 3
+    avatarBone: {fileID: 4700123595956273963}
+  LeftFoot:
+    jointIndex: 4
+    avatarBone: {fileID: 1902207844010523600}
+  LeftToes:
+    jointIndex: 5
+    avatarBone: {fileID: 1809254430341314978}
+  LeftToesEnd:
+    jointIndex: 6
+    avatarBone: {fileID: 8217927895448041314}
+  RightUpLeg:
+    jointIndex: 7
+    avatarBone: {fileID: 0}
+  RightLeg:
+    jointIndex: 8
+    avatarBone: {fileID: 0}
+  RightFoot:
+    jointIndex: 9
+    avatarBone: {fileID: 0}
+  RightToes:
+    jointIndex: 10
+    avatarBone: {fileID: 0}
+  RightToesEnd:
+    jointIndex: 11
+    avatarBone: {fileID: 0}
+  Spine1:
+    jointIndex: 12
+    avatarBone: {fileID: 0}
+  Spine2:
+    jointIndex: 13
+    avatarBone: {fileID: 0}
+  Spine3:
+    jointIndex: 14
+    avatarBone: {fileID: 0}
+  Spine4:
+    jointIndex: 15
+    avatarBone: {fileID: 0}
+  Spine5:
+    jointIndex: 16
+    avatarBone: {fileID: 0}
+  Spine6:
+    jointIndex: 17
+    avatarBone: {fileID: 0}
+  Spine7:
+    jointIndex: 18
+    avatarBone: {fileID: 0}
+  LeftShoulder1:
+    jointIndex: 19
+    avatarBone: {fileID: 0}
+  LeftArm:
+    jointIndex: 20
+    avatarBone: {fileID: 0}
+  LeftForearm:
+    jointIndex: 21
+    avatarBone: {fileID: 0}
+  LeftHand:
+    jointIndex: 22
+    avatarBone: {fileID: 0}
+  LeftHandIndexStart:
+    jointIndex: 23
+    avatarBone: {fileID: 0}
+  LeftHandIndex1:
+    jointIndex: 24
+    avatarBone: {fileID: 0}
+  LeftHandIndex2:
+    jointIndex: 25
+    avatarBone: {fileID: 0}
+  LeftHandIndex3:
+    jointIndex: 26
+    avatarBone: {fileID: 0}
+  LeftHandIndexEnd:
+    jointIndex: 27
+    avatarBone: {fileID: 0}
+  LeftHandMidStart:
+    jointIndex: 28
+    avatarBone: {fileID: 0}
+  LeftHandMid1:
+    jointIndex: 29
+    avatarBone: {fileID: 0}
+  LeftHandMid2:
+    jointIndex: 30
+    avatarBone: {fileID: 0}
+  LeftHandMid3:
+    jointIndex: 31
+    avatarBone: {fileID: 0}
+  LeftHandMidEnd:
+    jointIndex: 32
+    avatarBone: {fileID: 0}
+  LeftHandPinkyStart:
+    jointIndex: 33
+    avatarBone: {fileID: 0}
+  LeftHandPinky1:
+    jointIndex: 34
+    avatarBone: {fileID: 0}
+  LeftHandPinky2:
+    jointIndex: 35
+    avatarBone: {fileID: 0}
+  LeftHandPinky3:
+    jointIndex: 36
+    avatarBone: {fileID: 0}
+  LeftHandPinkyEnd:
+    jointIndex: 37
+    avatarBone: {fileID: 0}
+  LeftHandRingStart:
+    jointIndex: 38
+    avatarBone: {fileID: 0}
+  LeftHandRing1:
+    jointIndex: 39
+    avatarBone: {fileID: 0}
+  LeftHandRing2:
+    jointIndex: 40
+    avatarBone: {fileID: 0}
+  LeftHandRing3:
+    jointIndex: 41
+    avatarBone: {fileID: 0}
+  LeftHandRingEnd:
+    jointIndex: 42
+    avatarBone: {fileID: 0}
+  LeftHandThumbStart:
+    jointIndex: 43
+    avatarBone: {fileID: 0}
+  LeftHandThumb1:
+    jointIndex: 44
+    avatarBone: {fileID: 0}
+  LeftHandThumb2:
+    jointIndex: 45
+    avatarBone: {fileID: 0}
+  LeftHandThumbEnd:
+    jointIndex: 46
+    avatarBone: {fileID: 0}
+  Neck1:
+    jointIndex: 47
+    avatarBone: {fileID: 0}
+  Neck2:
+    jointIndex: 48
+    avatarBone: {fileID: 0}
+  Neck3:
+    jointIndex: 49
+    avatarBone: {fileID: 0}
+  Neck4:
+    jointIndex: 50
+    avatarBone: {fileID: 0}
+  Head:
+    jointIndex: 51
+    avatarBone: {fileID: 0}
+  Jaw:
+    jointIndex: 52
+    avatarBone: {fileID: 0}
+  Chin:
+    jointIndex: 53
+    avatarBone: {fileID: 0}
+  LeftEye:
+    jointIndex: 54
+    avatarBone: {fileID: 0}
+  LeftEyeLowerLid:
+    jointIndex: 55
+    avatarBone: {fileID: 0}
+  LeftEyeUpperLid:
+    jointIndex: 56
+    avatarBone: {fileID: 0}
+  LeftEyeball:
+    jointIndex: 57
+    avatarBone: {fileID: 0}
+  Nose:
+    jointIndex: 58
+    avatarBone: {fileID: 0}
+  RightEye:
+    jointIndex: 59
+    avatarBone: {fileID: 0}
+  RightEyeLowerLid:
+    jointIndex: 60
+    avatarBone: {fileID: 0}
+  RightEyeUpperLid:
+    jointIndex: 61
+    avatarBone: {fileID: 0}
+  RightEyeball:
+    jointIndex: 62
+    avatarBone: {fileID: 0}
+  RightShoulder1:
+    jointIndex: 63
+    avatarBone: {fileID: 0}
+  RightArm:
+    jointIndex: 64
+    avatarBone: {fileID: 0}
+  RightForearm:
+    jointIndex: 65
+    avatarBone: {fileID: 0}
+  RightHand:
+    jointIndex: 66
+    avatarBone: {fileID: 0}
+  RightHandIndexStar:
+    jointIndex: 67
+    avatarBone: {fileID: 0}
+  RightHandIndex1:
+    jointIndex: 68
+    avatarBone: {fileID: 0}
+  RightHandIndex2:
+    jointIndex: 69
+    avatarBone: {fileID: 0}
+  RightHandIndex3:
+    jointIndex: 70
+    avatarBone: {fileID: 0}
+  RightHandIndexEnd:
+    jointIndex: 71
+    avatarBone: {fileID: 0}
+  RightHandMidStart:
+    jointIndex: 72
+    avatarBone: {fileID: 0}
+  RightHandMid1:
+    jointIndex: 73
+    avatarBone: {fileID: 0}
+  RightHandMid2:
+    jointIndex: 74
+    avatarBone: {fileID: 0}
+  RightHandMid3:
+    jointIndex: 75
+    avatarBone: {fileID: 0}
+  RightHandMidEnd:
+    jointIndex: 76
+    avatarBone: {fileID: 0}
+  RightHandPinkyStar:
+    jointIndex: 77
+    avatarBone: {fileID: 0}
+  RightHandPinky1:
+    jointIndex: 78
+    avatarBone: {fileID: 0}
+  RightHandPinky2:
+    jointIndex: 79
+    avatarBone: {fileID: 0}
+  RightHandPinky3:
+    jointIndex: 80
+    avatarBone: {fileID: 0}
+  RightHandPinkyEnd:
+    jointIndex: 81
+    avatarBone: {fileID: 0}
+  RightHandRingStart:
+    jointIndex: 82
+    avatarBone: {fileID: 0}
+  RightHandRing1:
+    jointIndex: 83
+    avatarBone: {fileID: 0}
+  RightHandRing2:
+    jointIndex: 84
+    avatarBone: {fileID: 0}
+  RightHandRing3:
+    jointIndex: 85
+    avatarBone: {fileID: 0}
+  RightHandRingEnd:
+    jointIndex: 86
+    avatarBone: {fileID: 0}
+  RightHandThumbStar:
+    jointIndex: 87
+    avatarBone: {fileID: 0}
+  RightHandThumb1:
+    jointIndex: 88
+    avatarBone: {fileID: 0}
+  RightHandThumb2:
+    jointIndex: 89
+    avatarBone: {fileID: 0}
+  RightHandThumbEnd:
+    jointIndex: 90
+    avatarBone: {fileID: 0}
+--- !u!1001 &2402083137069129221
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2269216639587011599, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2a3efe81596e624bafc7fda55f05031, type: 2}
+    - target: {fileID: -2269216639587011599, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2a3efe81596e624bafc7fda55f05031, type: 2}
+    - target: {fileID: -2269216639587011599, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2a3efe81596e624bafc7fda55f05031, type: 2}
+    - target: {fileID: 919132149155446097, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+      propertyPath: m_Name
+      value: Avatar
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+--- !u!1 &3284390985026184020 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7956509962549587170 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -3513130668468342041, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5918921035088532306 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8318661643307060567, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4205169227822110018 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1949542706062265159, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4700123595956273963 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6949010660920515886, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1902207844010523600 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4958438904802613803, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1809254430341314978 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4057227264293447591, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8217927895448041314 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6007265356471740775, guid: fd0671e9ecb168342ae31510a338f44e, type: 3}
+  m_PrefabInstance: {fileID: 2402083137069129221}
+  m_PrefabAsset: {fileID: 0}
