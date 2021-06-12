@@ -36,6 +36,4 @@ The primary requirement is to map the avatar bones to the controlled robot bones
   <dt>AR Foundation Sample Project:</dt>
   <dd><a href="https://github.com/Unity-Technologies/arfoundation-samples">https://github.com/Unity-Technologies/arfoundation-samples</a></dd>
   
-  <dt>My GitHub Repo:</dt>
-  <dd><a href="https://github.com/genereddick/BodyTracking">https://github.com/genereddick/BodyTracking</a></dd>
 </dl>
