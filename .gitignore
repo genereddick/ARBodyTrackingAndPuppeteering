@@ -36,3 +36,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.log
+<<<<<<< HEAD
+=======
+*.log
+>>>>>>> 8c53e9abb511ccdb0b0cbd059f1e087676ec84b7
