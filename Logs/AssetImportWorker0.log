@@ -185,3 +185,4 @@ Received Import Request.
 Start importing Assets/StarterAssets/ThirdPersonController/Character/Models/Armature.fbx using Guid(36078ab0369161e49a29d349ae3e0739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70be0728b81ce77c13664f5892ec348a') in 0.051173 seconds
   Import took 0.056323 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
