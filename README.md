@@ -10,10 +10,7 @@ While initially I had thought to replace the sample controlled robot model I fou
  </p>
  
  <p>
- My solution was to keep the controlled robot and pair its movements to a second avatar and, if desired, overlay the positions and hide the controlled robot. 
-</p>
-
-<p>Here I'm connecting the armature from the recently updated <a href="https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526">3rd Person Unity Starter Assets</a> to the AR Foundation samples ControlledRobot asset.
+ My solution was to keep the controlled robot and pair its movements to a second avatar and, if desired, overlay the positions and hide the controlled robot. Here I'm connecting the armature from the recently updated <a href="https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526">3rd Person Unity Starter Assets</a> to the AR Foundation samples ControlledRobot asset.
 </p>
 
 
