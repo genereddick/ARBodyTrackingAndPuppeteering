@@ -6,7 +6,7 @@ Body Tracking with ARKit works very well as does the Unity integration into AR F
 </p>
 
 <p>
-While initially I had thought to replace the sample controlled robot model I found it difficult. My solution was to keep the controlled robot and pair its movements to a second avatar and, if desired, overlay the positions and hide the controlled robot. The ARKit rig is not like other rigs (7 spine bones, 4 neck bones, different orientations, etc.) in common usage. The Unity version has no avatar associated with it so you are unable to access some of the built in HumanBones and retarteging functionality normally available. Attempts to rig my own  version failed for various reasons.
+While initially I had thought to replace the sample controlled robot model I found it difficult. My solution was to keep the controlled robot and pair its movements to a second avatar and, if desired, overlay the positions and hide the controlled robot. The ARKit rig is not like other rigs (7 spine bones, 4 neck bones, different orientations, etc.) in common usage. The Unity version has no avatar associated with it so you are unable to access some of the built in HumanBones and retargeting functionality normally available. Attempts to rig my own  version failed for various reasons.
 </p>
 
 <p>Here I'm connecting the armature from the recently updated <a href="https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526">3rd Person Unity Starter Assets</a> to the AR Foundation samples ControlledRobot asset.
